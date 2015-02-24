@@ -1438,7 +1438,7 @@
             <str name="rows">10</str>
             <str name="fq">spec_key_s:Brand</str>
             <str name="fq">spec_cat_s:"GENERAL FEATURES"</str>
-            <str name="fl">product_title_t,product_id_s</str>
+            <str name="fl">product_title_t,product_id_s,product_price_i</str>
             <str name="qf">suggest^10 suggest_ngram</str>
             <str name="boost">rnr_score_i</str>
         </lst>
